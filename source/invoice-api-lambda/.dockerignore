@@ -1,0 +1,5 @@
+secrets.json
+check_db.py
+repair_prodotti.py
+.env
+*.env

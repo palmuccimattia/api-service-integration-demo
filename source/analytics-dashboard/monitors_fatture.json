@@ -1,0 +1,26 @@
+{
+  "monitors": [
+    {
+      "id": "08d1ffed-b3e4-4f95-990f-47c181ef351e",
+      "title": "Mozzarella",
+      "keyword": "JULIENNE",
+      "metric": "prezzo",
+      "color": "#cb18ca",
+      "show_points": true,
+      "toasts": true,
+      "supplier": "Azienda Casearia F.lli Caponera srl",
+      "created_at": "2025-10-06T12:09:54.674919"
+    },
+    {
+      "id": "bf09ba97-bade-470d-8a5c-10cc2f7c32eb",
+      "title": "Pomodoro",
+      "keyword": "POMODORI CIRIO",
+      "metric": "prezzo",
+      "color": "#1d30d6",
+      "show_points": true,
+      "toasts": true,
+      "supplier": "BARZETTI SRL",
+      "created_at": "2025-10-06T12:13:24.650406"
+    }
+  ]
+}

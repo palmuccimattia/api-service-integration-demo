@@ -1,0 +1,14 @@
+streamlit
+mysql-connector-python
+sqlalchemy
+pymysql
+pandas
+altair
+boto3
+paramiko
+numpy
+plotly
+scikit-learn
+mlxtend
+streamlit-calendar
+reportlab

@@ -1,0 +1,5 @@
+sqlalchemy>=1.4
+boto3>=1.28
+botocore>=1.31
+requests>=2.25
+pymysql>=1.0
